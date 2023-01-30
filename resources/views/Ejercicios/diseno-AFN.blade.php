@@ -73,7 +73,7 @@
     }
 </style>
 
-
+    
 <div id="content">
     <header id="header">
         <div id="headerContent">Diseño de un AFN</div>
@@ -93,7 +93,7 @@
                     </header>
                     <div class="iDevice_inner">
                         <!-- Texto de bienvenida -->
-                        Bienvenido al area de ejercicios, aca podras encontrar el pasdos a paso del diseño de un autómata finito no determinista 
+                      <h1>Selecciona un ejemplo para observar paso a paso el diseño del autómata</h1> 
                     </div>
 
                     <script src="assets/js/main.js"></script>

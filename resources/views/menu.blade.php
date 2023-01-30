@@ -58,7 +58,7 @@
             <div class="dropdown-area ejercicios">
 
                 <button class="btn dropdown-toggle shadow-lg p-3 btn-dropdown " href="#" type="button" id="dropdownMenuLink" data-bs-toggle="dropdown" aria-expanded="false">
-                    <p class="btb-dropdown-text">Ejercicios </p>
+                    <p class="btb-dropdown-text">Ejemplos </p>
                 </button>
 
                 <ul class="dropdown-menu" aria-labelledby="dropdownMenuLink">
