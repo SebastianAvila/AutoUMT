@@ -40,7 +40,7 @@
                         <div class="full">
                             <div class="center-desk">
                                 <div class="logo">
-                                    <a href=""><img src="assets/images/logoEditado.png" alt="#" /></a>
+                                    <a href=""><img src="assets/images/logoEditado.png" alt="logo" /></a>
                                 </div>
                             </div>
                         </div>
@@ -109,21 +109,21 @@
             <div class="row">
                 <div class="col-md-4">
                     <div class="we_do_box">
-                        <i><img class="imgInBlack" src="assets/images/tesisImg.png" alt="#" /></i>
+                        <i><img class="imgInBlack" src="assets/images/tesisImg.png" alt="Tesis" /></i>
                         <h4>Proyecto de Tesis</h4>
                         <p>Automa<span>LIS</span>a es parte de un proyecto de tesis enfocado en el tema de los Autómatas Finitos </p>
                     </div>
                 </div>
                 <div class="col-md-4">
                     <div class="we_do_box">
-                        <i><img src="assets/images/learning.png" alt="#" /></i>
+                        <i><img src="assets/images/learning.png" alt="automatas" /></i>
                         <h4>Aprendizaje</h4>
                         <p>Este software aborda el tema de los Autómatas Finitos, sus característica, propiedades y representación de lenguajes. </p>
                     </div>
                 </div>
                 <div class="col-md-4">
                     <div class="we_do_box">
-                        <i><img class="imgInBlack" src="assets/images/experienceImg.png" alt="#" /></i>
+                        <i><img class="imgInBlack" src="assets/images/experienceImg.png" alt="experiencia" /></i>
                         <h4>Experiencia</h4>
                         <p> El desarrolllo de este sistema se realiza con el framework Laravel.</p>
                     </div>
@@ -159,7 +159,7 @@
                             </div>
                             <div class="col-md-6">
                                 <label for="Numero_Telefonico"> Numero de telefono</label>
-                                <input class="contactus"  id="Numero_telefonico" type="text" name="Numero_telefonico">
+                                <input class="contactus"  id="Numero_telefonico" type="text" name="Numero_Telefonico">
                             </div>
                             <div class="col-md-6">
                                 <label for="Carrera">Carrera</label>
