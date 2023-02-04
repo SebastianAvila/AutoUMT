@@ -154,7 +154,7 @@
                     <form class="main_form">
                         <div class="row">
                             <div class="col-md-12 ">
-                                <label for="Nombre"></label>
+                                <label for="Nombre">Nombre</label>
                                 <input class="contactus"  id="Nombre" type="text" name="Nombre">
                             </div>
                             <div class="col-md-6">
