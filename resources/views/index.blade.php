@@ -158,20 +158,20 @@
                                 <input class="contactus" placeholder="Nombre" id="Nombre" type="text" name="Name">
                             </div>
                             <div class="col-md-6">
-                                <label for="Numero_Telefonico"></label>
-                                <input class="contactus" placeholder="Numero telefonico" id="Numero_telefonico" type="text" name="Phone_Number">
+                                <label for="Numero_Telefonico"> Numero de telefono</label>
+                                <input class="contactus"  id="Numero_telefonico" type="text" name="Phone_Number">
                             </div>
                             <div class="col-md-6">
-                                <label for="Carrera"></label>
-                                <input class="contactus" placeholder="Carrera" id="Carrera" type="text" name="Carrera">
+                                <label for="Carrera">Carrera</label>
+                                <input class="contactus" id="Carrera" type="text" name="Carrera">
                             </div>
                             <div class="col-md-12">
-                                <label for="Email"></label>
-                                <input class="contactus" placeholder="Email " id="Email " type="Email" name="Email">
+                                <label for="Email">Email</label>
+                                <input class="contactus"   id="Email " type="Email" name="Email">
                             </div>
                             <div class="col-md-12">
-                                <label for="Mensaje"></label>
-                                <textarea class="textarea" placeholder="Mensaje" id="Mensaje" type="text" name="Message"></textarea>
+                                <label for="Mensaje">Mensaje</label>
+                                <textarea class="textarea"  id="Mensaje" type="text" name="Message"></textarea>
                             </div>
                             <div class="col-sm-12">
                                 <button class="send_btn">Enviar</button>
@@ -189,22 +189,20 @@
             <!-- Section: Social media -->
             <section class="mb-4">
                 <!-- Facebook -->
-                <a class="btn btn-outline-light btn-floating m-1" href="#" role="button"><i class="fab fa-facebook-f"></i></a>
+                <a class="btn btn-outline-light btn-floating m-1" href="https://www.facebook.com/SebastianAguayoAvila13/" role="button"><i class="fab fa-facebook-f"></i></a>
 
                 <!-- Twitter -->
-                <a class="btn btn-outline-light btn-floating m-1" href="#" role="button"><i class="fab fa-twitter"></i></a>
+                <a class="btn btn-outline-light btn-floating m-1" href="https://twitter.com/TheSebaaaaas" role="button"><i class="fab fa-twitter"></i></a>
 
                 <!-- Google -->
-                <a class="btn btn-outline-light btn-floating m-1" href="#" role="button"><i class="fab fa-google"></i></a>
+                <a class="btn btn-outline-light btn-floating m-1" href="jesusaviala@gmail.com" role="button"><i class="fab fa-google"></i></a>
 
                 <!-- Instagram -->
-                <a class="btn btn-outline-light btn-floating m-1" href="#" role="button"><i class="fab fa-instagram"></i></a>
+                <a class="btn btn-outline-light btn-floating m-1" href="https://www.instagram.com/thesebaaaaas/" role="button"><i class="fab fa-instagram"></i></a>
 
-                <!-- Linkedin -->
-                <a class="btn btn-outline-light btn-floating m-1" href="#" role="button"><i class="fab fa-linkedin-in"></i></a>
 
                 <!-- Github -->
-                <a class="btn btn-outline-light btn-floating m-1" href="#" role="button"><i class="fab fa-github"></i></a>
+                <a class="btn btn-outline-light btn-floating m-1" href="https://github.com/SebastianAvila" role="button"><i class="fab fa-github"></i></a>
             </section>
             <!-- Section: Social media -->
         </div>
