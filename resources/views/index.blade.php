@@ -159,7 +159,7 @@
                             </div>
                             <div class="col-md-6">
                                 <label for="Numero_Telefonico"> Numero de telefono</label>
-                                <input class="contactus"  id="Numero_telefonico" type="text" name="Numero_Telefonico">
+                                <input class="contactus"  id="Numero_Telefonico" type="text" name="Numero_Telefonico">
                             </div>
                             <div class="col-md-6">
                                 <label for="Carrera">Carrera</label>
