@@ -155,11 +155,11 @@
                         <div class="row">
                             <div class="col-md-12 ">
                                 <label for="Nombre"></label>
-                                <input class="contactus" placeholder="Nombre" id="Nombre" type="text" name="Name">
+                                <input class="contactus"  id="Nombre" type="text" name="Nombre">
                             </div>
                             <div class="col-md-6">
                                 <label for="Numero_Telefonico"> Numero de telefono</label>
-                                <input class="contactus"  id="Numero_telefonico" type="text" name="Phone_Number">
+                                <input class="contactus"  id="Numero_telefonico" type="text" name="Numero_telefonico">
                             </div>
                             <div class="col-md-6">
                                 <label for="Carrera">Carrera</label>
@@ -167,11 +167,11 @@
                             </div>
                             <div class="col-md-12">
                                 <label for="Email">Email</label>
-                                <input class="contactus"   id="Email " type="Email" name="Email">
+                                <input class="contactus"   id="Email" type="Email" name="Email">
                             </div>
                             <div class="col-md-12">
                                 <label for="Mensaje">Mensaje</label>
-                                <textarea class="textarea"  id="Mensaje" type="text" name="Message"></textarea>
+                                <textarea class="textarea"  id="Mensaje" type="text" name="Mensaje"></textarea>
                             </div>
                             <div class="col-sm-12">
                                 <button class="send_btn">Enviar</button>
