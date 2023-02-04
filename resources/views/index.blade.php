@@ -154,19 +154,24 @@
                     <form class="main_form">
                         <div class="row">
                             <div class="col-md-12 ">
-                                <input class="contactus" placeholder="Nombre" type="text" name="Name">
+                                <label for="Nombre"></label>
+                                <input class="contactus" placeholder="Nombre" id="Nombre" type="text" name="Name">
                             </div>
                             <div class="col-md-6">
-                                <input class="contactus" placeholder="Numero telefonico" type="text" name="Phone_Number">
+                                <label for="Numero_Telefonico"></label>
+                                <input class="contactus" placeholder="Numero telefonico" id="Numero_telefonico" type="text" name="Phone_Number">
                             </div>
                             <div class="col-md-6">
-                                <input class="contactus" placeholder="Carrera" type="text" name="Carrera">
+                                <label for="Carrera"></label>
+                                <input class="contactus" placeholder="Carrera" id="Carrera" type="text" name="Carrera">
                             </div>
                             <div class="col-md-12">
-                                <input class="contactus" placeholder="Email " type="Email" name="Email">
+                                <label for="Email"></label>
+                                <input class="contactus" placeholder="Email " id="Email " type="Email" name="Email">
                             </div>
                             <div class="col-md-12">
-                                <textarea class="textarea" placeholder="Mensaje" type="text" name="Message"></textarea>
+                                <label for="Mensaje"></label>
+                                <textarea class="textarea" placeholder="Mensaje" id="Mensaje" type="text" name="Message"></textarea>
                             </div>
                             <div class="col-sm-12">
                                 <button class="send_btn">Enviar</button>
@@ -177,36 +182,6 @@
             </div>
         </div>
     </div>
-    <!-- end contact -->
-
-    <!--  footer -->
-    <!-- <footer>
-        <div class="footer">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-10 offset-md-1">
-                        <div class="cont">
-                            <h3>Esta pagina es un prototipo, si encuentras una falla y/o error, reportala de inmediato<br>
-
-                            </h3>
-                            <span>Sigueme en mis Redes Sociales</span>
-                            <a class="read_more" href="#">Get A Quote</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="copyright">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-md-12">
-                            <p>Copyright 2021 All Right Reserved By Sebastian Avila</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </footer> -->
-    <!-- end footer---->
 
     <footer class="bg-dark text-center text-white">
         <!-- Grid container -->
@@ -214,22 +189,22 @@
             <!-- Section: Social media -->
             <section class="mb-4">
                 <!-- Facebook -->
-                <a class="btn btn-outline-light btn-floating m-1" href="#!" role="button"><i class="fab fa-facebook-f"></i></a>
+                <a class="btn btn-outline-light btn-floating m-1" href="#" role="button"><i class="fab fa-facebook-f"></i></a>
 
                 <!-- Twitter -->
-                <a class="btn btn-outline-light btn-floating m-1" href="#!" role="button"><i class="fab fa-twitter"></i></a>
+                <a class="btn btn-outline-light btn-floating m-1" href="#" role="button"><i class="fab fa-twitter"></i></a>
 
                 <!-- Google -->
-                <a class="btn btn-outline-light btn-floating m-1" href="#!" role="button"><i class="fab fa-google"></i></a>
+                <a class="btn btn-outline-light btn-floating m-1" href="#" role="button"><i class="fab fa-google"></i></a>
 
                 <!-- Instagram -->
-                <a class="btn btn-outline-light btn-floating m-1" href="#!" role="button"><i class="fab fa-instagram"></i></a>
+                <a class="btn btn-outline-light btn-floating m-1" href="#" role="button"><i class="fab fa-instagram"></i></a>
 
                 <!-- Linkedin -->
-                <a class="btn btn-outline-light btn-floating m-1" href="#!" role="button"><i class="fab fa-linkedin-in"></i></a>
+                <a class="btn btn-outline-light btn-floating m-1" href="#" role="button"><i class="fab fa-linkedin-in"></i></a>
 
                 <!-- Github -->
-                <a class="btn btn-outline-light btn-floating m-1" href="#!" role="button"><i class="fab fa-github"></i></a>
+                <a class="btn btn-outline-light btn-floating m-1" href="#" role="button"><i class="fab fa-github"></i></a>
             </section>
             <!-- Section: Social media -->
         </div>
