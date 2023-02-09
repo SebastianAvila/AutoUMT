@@ -101,13 +101,13 @@ let questions = [
   },
   {
     numb: 10,
-    question: "El automta finito determinista: ",
-    answer: "No tiene vacíos y no puede estar en mas de aun estado a la vez",
+    question: "¿Que es un lenguaje en los autómatas finitos? ",
+    answer: "Un conjunto de palabras formadas apartir de un alfabeto",
     options: [
-      "Peude estar en mas de un estado a la vez ",
-      "Tiene vacios y no puede estar mas de una vez en un estado a la vez", //
-      "No tiene vacíos y no puede estar en mas de aun estado a la vez",
-      "Tiene Vacios"
+      "Un conjunto de cadenas formadas apartir del alfabeto",
+      "Un conjunto de simbolos formados apartir  del alfabeto", //
+      "Un conjunto de palabras formadas apartir de un alfabeto",
+      "Un conjunto de palabras formadas apartir de varios alfabetos"
     ]
   }
   // {
